@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="en" class="notranslate" translate="no">
+
+
+<head>
+    <meta name="google" content="notranslate">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Phame Decentralized Perpetual Exchange">
+    <link rel="icon" type="image/png" href="/favicon/favicon.ico">
+    <meta name="theme-color" content="#ffffff">
+    <title>Phame.io</title>
+    <script defer="defer" src="/static/js/main.d7b530cb.js"></script>
+    <link href="/static/css/main.13dd0771.css" rel="stylesheet">
+    <style id="_goober">
+        @keyframes go2264125279 {
+            from {
+                transform: scale(0) rotate(45deg);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1) rotate(45deg);
+                opacity: 1;
+            }
+        }
+
+        @keyframes go3020080000 {
+            from {
+                transform: scale(0);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        @keyframes go463499852 {
+            from {
+                transform: scale(0) rotate(90deg);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1) rotate(90deg);
+                opacity: 1;
+            }
+        }
+
+        @keyframes go1268368563 {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes go1310225428 {
+            from {
+                transform: scale(0) rotate(45deg);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1) rotate(45deg);
+                opacity: 1;
+            }
+        }
+
+        @keyframes go651618207 {
+            0% {
+                height: 0;
+                width: 0;
+                opacity: 0;
+            }
+
+            40% {
+                height: 0;
+                width: 6px;
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 1;
+                height: 10px;
+            }
+        }
+
+        @keyframes go901347462 {
+            from {
+                transform: scale(0.6);
+                opacity: 0.4;
+            }
+
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .go4109123758 {
+            z-index: 9999;
+        }
+
+        .go4109123758>* {
+            pointer-events: auto;
+        }
+    </style>
+    <style data-emotion="css" data-s=""></style>
+    <meta name="robots" content="follow, index">
+    <meta name="description"
+        content="Trade spot or perpetual tPLS, HEX, DAI and other top cryptocurrencies with up to 50x leverage directly from your wallet on PulseChain.">
+    <meta property="og:type" content="exchange">
+    <meta property="og:site_name" content="Phamous">
+    <meta property="og:description"
+        content="Trade spot or perpetual tPLS, HEX, DAI and other top cryptocurrencies with up to 50x leverage directly from your wallet on PulseChain.">
+    <meta property="og:title" content="Phame | Decentralized Perpetual Exchange">
+    <meta property="og:image" content="https://phiat.io/public/images/phamous.jpeg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Phamouscrypto">
+    <meta name="twitter:title" content="Phame | Decentralized Perpetual Exchange">
+    <meta name="twitter:description"
+        content="Trade spot or perpetual tPLS, HEX, DAI and other top cryptocurrencies with up to 50x leverage directly from your wallet on PulseChain.">
+    <meta name="twitter:image" content="https://phiat.io/public/images/phamous.jpeg">
+    <title>Earn | Decentralized
+        Perpetual Exchange | Phame.io</title>
+</head>
+
+
+
+
+<body style="overflow: unset;"><noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+        <div class="App">
+            <div class="App-content">
+                <header>
+                    <div class="App-header large">
+                        <div class="App-header-container-left">
+                            <div class="App-header-menu-icon-block"><svg stroke="currentColor" fill="currentColor"
+                                    stroke-width="0" viewBox="0 0 24 24" class="App-header-menu-icon" height="1em"
+                                    width="1em" xmlns="http://www.w3.org/2000/svg">
+                                    <g>
+                                        <path fill="none" d="M0 0h24v24H0z"></path>
+                                        <path d="M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h18v2H3v-2z"></path>
+                                    </g>
+                                </svg></div><a class="App-header-link-main clickable" href="/"><img
+                                    src="/static/media/buck.938526fdcaa87b0eb092.png" class="big" alt="Phame.io"><img
+                                    src="/static/media/buck.938526fdcaa87b0eb092.png" class="small" alt="Phame.io"><span
+                                    color="white" id="logo-text">PHAME.IO</span></a>
+                            <div class="App-header-links">
+                                <div class="App-header-link-container App-header-link-home"><a href="https://phame.io"
+                                        class="">Home</a></div>
+                                <div class="App-header-link-container"><a class="" href="#/dashboard">Dashboard</a>
+                                </div>
+                                <div class="App-header-link-container"><a class="active" href="#/earn"
+                                        aria-current="page">Earn</a></div>
+                                <div class="App-header-link-container"><a class="" href="#/ecosystem">Ecosystem</a>
+                                </div>
+                                <div class="App-header-link-container"><a
+                                        href="https://ph-defi.gitbook.io/home/phamous-protocol-tokenomics"
+                                        target="_blank" rel="noopener noreferrer">About</a></div>
+                            </div>
+                        </div>
+                        <div class="App-header-container-right">
+                            <div class="App-header-user">
+                                <div class="App-header-user-link"><a class="default-btn" href="#/trade">Trade</a></div>
+                                <div class="Selector App-header-user-netowork">
+                                    <div class="network-select css-b62m3t-container"><span
+                                            id="react-select-2-live-region" class="css-7pg0cj-a11yText"></span><span
+                                            aria-live="polite" aria-atomic="false" aria-relevant="additions text"
+                                            class="css-7pg0cj-a11yText"></span>
+                                        <div class="react-select__control css-y6bba9">
+                                            <div
+                                                class="react-select__value-container react-select__value-container--has-value css-w73vlo">
+                                                <div class="react-select__single-value css-19k4bw6-singleValue">
+                                                    <div style="display: flex; align-items: center;"><img
+                                                            src="/static/media/ic_pulsechain_24.0db5a7114136e4d690d9.svg"
+                                                            alt="PulseChain Testnet v4" class="network-icon"><span
+                                                            style="margin-left: 5px;" class="network-label">PulseChain
+                                                            Testnet v4</span></div>
+                                                </div><input id="react-select-2-input" tabindex="0" inputmode="none"
+                                                    aria-autocomplete="list" aria-expanded="false" aria-haspopup="true"
+                                                    aria-controls="react-select-2-listbox"
+                                                    aria-owns="react-select-2-listbox" role="combobox"
+                                                    aria-readonly="true" class="css-1hac4vs-dummyInput" value="">
+                                            </div>
+                                            <div class="react-select__indicators css-1wy0on6"><img
+                                                    src="/static/media/ic_selector_dropdowns.aaf0b8f0dc5e0b5986747263d7d642df.svg"
+                                                    alt="selectorDropdowns"></div>
+                                        </div>
+                                    </div>
+                                </div><button class="btn btn-primary btn-sm connect-wallet"><img class="btn-image"
+                                        src="/static/media/ic_wallet_24.a19a67584c37269adc2f86c359666ede.svg"
+                                        alt="Connect Wallet"><span class="btn-label">Connect Wallet</span></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="App-header small active">
+                        <div class="App-header-link-container App-header-top">
+                            <div class="App-header-container-left">
+                                <div class="App-header-menu-icon-block"><svg stroke="currentColor" fill="currentColor"
+                                        stroke-width="0" viewBox="0 0 24 24" class="App-header-menu-icon" height="1em"
+                                        width="1em" xmlns="http://www.w3.org/2000/svg">
+                                        <g>
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h18v2H3v-2z"></path>
+                                        </g>
+                                    </svg></div>
+                                <div class="App-header-link-main clickable"><img
+                                        src="/static/media/buck.938526fdcaa87b0eb092.png" class="big" alt="Phamous"><img
+                                        src="/static/media/buck.938526fdcaa87b0eb092.png" class="small" alt="Phamous">
+                                </div>
+                            </div>
+                            <div class="App-header-container-right">
+                                <div class="App-header-user">
+                                    <div class="App-header-user-link"><a class="default-btn" href="#/trade">Trade</a>
+                                    </div>
+                                    <div class="Selector App-header-user-netowork">
+                                        <div class="Selector-box PulseChain Testnet v4"><img
+                                                src="/static/media/ic_pulsechain_24.0db5a7114136e4d690d9.svg"
+                                                alt="valueIcon"><img
+                                                src="/static/media/ic_selector_dropdowns.aaf0b8f0dc5e0b5986747263d7d642df.svg"
+                                                alt="selectorDropdowns"></div>
+                                    </div><button class="btn btn-primary btn-sm connect-wallet"><img class="btn-image"
+                                            src="/static/media/ic_wallet_24.a19a67584c37269adc2f86c359666ede.svg"
+                                            alt="Connect"><span class="btn-label">Connect</span></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div class="default-container page-layout">
+                    <div class="StakeModal"></div>
+                    <div class="StakeModal"></div>
+                    <div class="StakeModal"></div>
+                    <div class="StakeModal"></div>
+                    <div class="StakeModal"></div>
+                    <div class="BuyPHAMEPHLP-container default-container">
+                        <div class="Home-token-card-options">
+                            <div class="Home-token-card-option">
+                                <div class="Home-token-card-option-icon"><img
+                                        src="/static/media/ic_phame_custom.e6c55ea6688ebdef7f090cfe09bdb4a1.svg"
+                                        alt="PHAME"> PHAME</div>
+                                <div class="Home-token-card-option-info">
+                                    <div class="Home-token-card-option-title">PHAME is the staking token. Accrues 40% of
+                                        the platform's generated fees.</div>
+                                    <div class="Home-token-card-option-action">
+                                        <div class="buy"><a
+                                                href="https://app.v4.testnet.pulsex.com/swap?inputCurrency=0x8a810ea8b121d08342e9e7696f4a9915cbe494b7&amp;outputCurrency=0x03A89B5003AA5e10f446f6481Ec331bb3355fAec"
+                                                target="_blank" rel="noreferrer" class="default-btn">Buy on PulseX</a>
+                                        </div><a href="https://ph-defi.gitbook.io/home/phamous-protocol-tokenomics"
+                                            target="_blank" rel="noreferrer" class="default-btn read-more">Read more</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="Home-token-card-option">
+                                <div class="Home-token-card-option-icon"><img
+                                        src="/static/media/ic_phlp_custom.4d8cdb283a9ea573d0b10443e145db8f.svg"
+                                        alt="PHLP"> PHLP</div>
+                                <div class="Home-token-card-option-info">
+                                    <div class="Home-token-card-option-title">PHLP is the liquidity provider token.
+                                        Accrues 60% of the platform's generated fees.</div>
+                                    <div class="Home-token-card-option-action">
+                                        <div class="buy"><a class="default-btn" href="#/buy_phlp">Provide Liquidity on
+                                                Phame.io</a></div><a
+                                            href="https://ph-defi.gitbook.io/home/phamous-protocol-tokenomics"
+                                            target="_blank" rel="noreferrer" class="default-btn read-more">Read more</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="PHAMEPHLP-Assets">Your Assets on Phame.io: <span class="Tooltip"><span
+                                    class="Tooltip-handle">$0.00</span></span></div>
+                    </div>
+                    <div class="Stake-content">
+                        <div class="Stake-cards">
+                            <div class="App-card">
+                                <div class="App-card-title">PHAME<img
+                                        src="/static/media/ic_phame_custom.e6c55ea6688ebdef7f090cfe09bdb4a1.svg"
+                                        alt="PHAME" width="21px"></div>
+                                <div class="App-card-divider"></div>
+                                <div class="App-card-content">
+                                    <div class="App-card-row">
+                                        <div class="label">Price</div>
+                                        <div>$14,101.6860</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Total Supply</div>
+                                        <div>55,555,000 PHAME ($783,419,169,608)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Total Staked</div>
+                                        <div>7,600,770 PHAME ($107,183,678,205)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Staked Percentage</div>
+                                        <div>13.68 %</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Staking APR</div>
+                                        <div>0.00 %</div>
+                                    </div>
+                                    <div class="App-card-divider"></div>
+                                    <div class="App-card-row">
+                                        <div class="label">Unlocking Period</div>
+                                        <div>14 Days</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Withdraw Window</div>
+                                        <div>7 Days</div>
+                                    </div>
+                                    <div class="App-card-divider"></div>
+                                    <div class="App-card-row">
+                                        <div class="label">Wallet</div>
+                                        <div>0.0000 PHAME ($0.00)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Staked</div>
+                                        <div>0.0000 PHAME ($0.00)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label sublabel">🐚Shell</div>
+                                        <div>0.0000000 %</div>
+                                    </div>
+                                    <div class="App-card-bottom-placeholder">
+                                        <div class="App-card-divider"></div>
+                                        <div class="App-card-options"><button
+                                                class="default-btn staking-btn">Stake</button></div>
+                                    </div>
+                                    <div class="App-card-bottom">
+                                        <div class="App-card-divider"></div>
+                                        <div class="App-card-options"><button class="default-btn staking-btn"
+                                                disabled="">Stake</button></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="App-card primary Stake-total-rewards-card">
+                                <div class="App-card-title">PHAME Staking Rewards</div>
+                                <div class="App-card-divider"></div>
+                                <div class="App-card-content">
+                                    <div class="App-card-row">
+                                        <div class="label">
+                                            <div class="mobile-token-card"><img
+                                                    src="/static/media/ic_phlp_40.dacb34ee27dc76e431eb.svg" alt="PHLP"
+                                                    width="20px" height="20px">
+                                                <div class="token-symbol-text">PHLP</div>
+                                            </div>
+                                        </div>
+                                        <div>0.0000 ($0.00)</div>
+                                    </div>
+                                    <div class="App-card-divider"></div>
+                                    <div class="App-card-row">
+                                        <div class="label">Total in USD (Est.)</div>
+                                        <div>$0.0000000000</div>
+                                    </div>
+                                    <div class="App-card-bottom-placeholder">
+                                        <div class="App-card-divider"></div>
+                                        <div class="App-card-options"><button class="default-btn staking-btn">Connect
+                                                Wallet</button></div>
+                                    </div>
+                                    <div class="App-card-bottom">
+                                        <div class="App-card-divider"></div>
+                                        <div class="App-card-options"><button class="default-btn staking-btn">Connect
+                                                Wallet</button></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="App-card">
+                                <div class="App-card-title">PHLP<img
+                                        src="/static/media/ic_phlp_custom.4d8cdb283a9ea573d0b10443e145db8f.svg"
+                                        alt="PHLP" width="21px"></div>
+                                <div class="App-card-divider"></div>
+                                <div class="App-card-content">
+                                    <div class="App-card-row">
+                                        <div class="label">Price</div>
+                                        <div>$1.3743</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">Total Supply</div>
+                                        <div>61,680,289 PHLP ($84,771,007)</div>
+                                    </div>
+                                    <div class="App-card-divider"></div>
+                                    <div class="App-card-row">
+                                        <div class="label">Wallet</div>
+                                        <div>0.0000 PHLP ($0.00)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label sublabel">🐚Shell</div>
+                                        <div>0.0000000 %</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="App-card primary Stake-total-rewards-card">
+                                <div class="App-card-title">PHLP Composition</div>
+                                <div class="App-card-divider"></div>
+                                <div class="App-card-content">
+                                    <div class="App-card-row">
+                                        <div class="label">
+                                            <div class="mobile-token-card"><img
+                                                    src="/static/media/ic_pls_40.594f7fa7762c11c967a8.svg" alt="PLS"
+                                                    width="20px" height="20px">
+                                                <div class="token-symbol-text">PLS</div>
+                                            </div>
+                                        </div>
+                                        <div>$- (29.09%)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">
+                                            <div class="mobile-token-card"><img
+                                                    src="/static/media/ic_plsx_40.df3156551de99c3b9de6.svg" alt="PLSX"
+                                                    width="20px" height="20px">
+                                                <div class="token-symbol-text">PLSX</div>
+                                            </div>
+                                        </div>
+                                        <div>$- (31.79%)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">
+                                            <div class="mobile-token-card"><img
+                                                    src="/static/media/ic_hex_40.f469927f594827e5fc62.svg" alt="HEX"
+                                                    width="20px" height="20px">
+                                                <div class="token-symbol-text">HEX</div>
+                                            </div>
+                                        </div>
+                                        <div>$- (19.05%)</div>
+                                    </div>
+                                    <div class="App-card-row">
+                                        <div class="label">
+                                            <div class="mobile-token-card"><img
+                                                    src="data:image/png;base64,UklGRjQJAABXRUJQVlA4TCcJAAAvMUAMEAmFbdu2QQh2p9qI/kcCtFEgvgdGRLMVTCsk7QdYMI4kqW24X4D8BSAXGM6JZNtO1JKcZQ6S/a8FiYZJagpFKWzbSE1Fx8/Q/0gP/3EF5VcK/gNAjAb1oRRS7ukFGyoq+imIbfLnLp0E+l8QZuhBbtJJj8S696Si6sa+g6utUBS4a7fZGgAslLT9TxtJv/9fduEwMzMz05p3cxG8yFwDT4BLZmbG4pqqrlj6L2K73HOC31jTqbS6y80MQ0e2bdd2Mub5/0uKVIRkKKP//SDyPvPee+5ddGzbVm0rY8x17nf/IW4Z7UV4REpOTgFcymQlcMt+9KmDuzv3vXf3pLNt2zFJOp/qqR7btm37J9gOJ7ORTahMkW1zbdu2Maw+qp4JAIK1X3njhXj11aOAvOrP32vjP9qqraurI3DW0DD6WrSzpYkdqimzJId/BD/pyce4fdvzjeD0azzxM/D0Y9fifhcACWj65VevhpuGV3/xSWP3336Ce2CSw/geBxqba4RFBDCGBQpIphaCDEjJP/PT9z1e9FeeCzdvAP+e/uzOKADIZh747F/eWVd+/knD7N4m61jptpb00EGWKg/GNAGQAARJIA14SDJcslrODz8U17yM+8zxlXt//7Rn9z+4f49oZPjLXz8UxkxPnNMZzprWM51sFgIQCNYfUpOELH7344ba7Vn8/sq7w9U9ez8UzF6eb2LW2MyMtaZ5ICNhsEkgUeXHipav/MWe7LXzTfjRzscqcJ1BnDTI0DegbZACJkEIDBohDekONB5mh75biWvU6gFViiJtdBbDCBEwtmzZ0hCHsEJZ3KQosmdT48FHfP9wK4QB1BdUdYIY9DdFduvx6PcPn8eDj7dUDIdwKAEPuXKnCsSNDc2RLAsuLmM18G0FPf8HfhGpSImD3PhQIyzBOrCY24C/Ss7bUeQ7/BfkI7CkQoj/xEEWDwLWF/fx/se+OyqTfPKtT839dEcZd16V/EmPCSaoLEKZpcYgimpN1APSJcfP/c38qd9uvvXE28dBHv/rD1HcfBo2LzuTUUSqEBu1qWqDCGBqIMZmC20NkEWOSAYe7l1r1UsfTIHvejSAB97JWcc/1ETqupJoHZy9Z5x7nmUODMpg8VuWbBacmLk1v42HwxGqioyj+G2505Xkcy9+YW3PFLinCZIQa2tlnHS3U3oK6wa1Mk0PPw5/dJu3t6fOUDNET3x3/dyAw948lB+/U4YIKWIswdRhYHBserdt2C9Q9Alkq7zNRBgRUAX85ENf97ZFX9uDUIVBVH747pZ/mc7rPrc4apvoSycriInlu0l6+uaq+UJvGJHcrJCnY9JpLacX44WFqfAJzRgdVAWTl053f3VpJ0ft2ufLOJ1AAqzdWgP3gkoUSZrY2SqcEC49OiUJTaX3adEYVFnYdRKuUUfXIgZZIcRKUKIpRlkhRVabZdS4Kp2R+LP6wLAqtoOSZMUoX2WWIwzNA1REmhPrRilBGewRy54qgUATxQ2Wk4yieh9+FkoAsWn7uJblbTq7YU6ih5CIMlNqTHSP3BWDJT+giGOrPNgUq0g7dQZcYCj8UXxpgcWHBV+CgxJDOrOLxj5iogOViVLnXXiec/w5Qu9fzNSFD2cdZ7GWWlDrmRiEVLQA5ox3et2/EYqkCJE5tKZ9SJK6shYhc4nYiEHGXK1zU53KWSEbsev7HzmYpk2MIYxYZmA79eduWfYdc3B8Dzs+BfjzXpYhQdWJFibDiXbW52AWlgScSglAsgVaUljEAAJURkYLl1QXk0/fNf4STtXzxenVNSEXU8XnQIpgfxQWAWK0rGmJFi4JJLaIA1isqCMKDgwSodY272S5CIrUoBZ3VIBUnR4mk4UTBfed3VhuEbJGHbGE4hjIFE+AS8MG9bN3hI6VSSJa/6hpEQCIMktZcfhUIKnirIoNnkAXiTl6y/MSRB+QeqxFt+1H5eCekogKJ64MpxTRWXZDFYVVoFptyiBa8BUotCSI1GfI3K4F1XwsTIFY1qZj06glnM0ZdEbw6dst8ySijRVttJZTGmc3FKZbfhAYimCd6Ngv4GQQjW+FTCnB6lBAWXWRwZBmaKpSAQugcs0cjIfJQlXR8oP4XYmg2kklUsIwmwFvKv+0aOVBQkXEYEcXEkU55WiXnSiJUJiCg1FXXGqcKCz9LqZVRkiEYr+BO9BYSx9fj2Zvx/qYKQKLlPoogImkhTYaCPSttWIcW1wAJ1cQM/CJsQwDVkLTLcYPmwGF4x9daR5KNzMhEkIplYBERFLaqB22ABJCq0xMpJPEqWqssDCjvhQLIASoFgkrxssyAjWyM5GhqyxAMcYykuqsCzxtxT+kIEkhXYxUYykXUEX6Tfxo+dsQAVVDKeN3oy5OJvP78h+utIQ0toaIrith6qg2J3oIq0MoqlnxK0xTaEmsaUFT2PbS2HWzEeCs+68Anlrr/zxbg7kDFEsEYCz72azPWdWWWeHDilqEOVoUh1TFVEMImjl/LzbHSCB///KnAsZPiGqXdTGlVEI1/vSZD/cGKFZaFUIoBLqWtbHkCLPgdY/733xOkJNf/uP9n38qOfOly/oaBWRUxNCBb4/VUVQkVD0LOUL4pd27vW98+/fDlQ8bJB9/fZz88upvKD9IW200ujJ23JgStHngm92LTt595gHsB3Ly8WKjkdJXS/XWQ4cklTb3//9b9400fSefrjQastLOSUNBW0EB1InR9TfXxT2Ctv+z7nYs9WOCiP3NpYhZfzvrvv4mQWVqPJRNWUwIUyil1NQQDFnKRw/wlZdGHTqi2Urgz+G0JgNMMcaGMDLLkHywZxv3sb487NH0QRGf5MuPrqlIxppQI5ZEjTQVp5/36r49lIdjXC2Q/Ovf/OPyZV9ezfhHVjJbBDASWIWFgZIcckR+L3BDrD0//MO7gCEbxHUpgPLSlc+wnPXLvRH5vjc6yCgE8iNJAkFySNJJKNihkssPfr5kcXz5WveAB3f/9VewWSAfu4n/Vm6e9XpolOHY1koHZWNXSAQIGVgBkBSpSZhBU/KPPN/3+lJx8Xxxba8D/975/JsYsvGZxxM8gsf1ahFv6fxUoww0BpshGgnrBVZTa0niH+HP0E8s3g54DfVrOfwCPOWlvokhawMA"
+                                                    alt="DAI" width="20px" height="20px">
+                                                <div class="token-symbol-text">DAI</div>
+                                            </div>
+                                        </div>
+                                        <div>$- (20.05%)</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Footer">
+                        <div class="Footer-wrapper">
+                            <div class="Footer-logo"><img src="/static/media/logo.0dbf0003bb557eeaa406.png"
+                                    alt="Phame.io"></div>
+                            <div class="Footer-social-link-block"><a class="App-social-link"
+                                    href="https://twitter.com/Phamouscrypto" target="_blank"
+                                    rel="noopener noreferrer"><img
+                                        src="/static/media/ic_twitter.9f35b403d28f6cd257899b1a6bbf3e62.svg"
+                                        alt="Twitter"></a><a class="App-social-link" href="https://t.me/phamousX"
+                                    target="_blank" rel="noopener noreferrer"><img
+                                        src="/static/media/ic_telegram.af1a4a663c12692b3360a2e223e03864.svg"
+                                        alt="Telegram"></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="Toastify"></div>
+        <div style="position: fixed; z-index: 2; inset: 93px 30px 16px 16px; pointer-events: none; transition: all 200ms ease 0s;"
+            class="event-toast-container"></div>
+    </div>
+</body>
+
+</html>
